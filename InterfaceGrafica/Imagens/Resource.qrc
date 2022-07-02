@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>loader.gif</file>
+    <file>bagla.ico</file>
+    <file>bagla.png</file>
+  </qresource>
+</RCC>
